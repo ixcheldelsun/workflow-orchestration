@@ -36,8 +36,8 @@ infrastructure:
   block_type_slug: docker-container
   _block_type_slug: docker-container
 storage:
-  repository: https://github.com/ixcheldelsun/data-engineering-zoomcamp.git
-  reference: fix
+  repository: https://github.com/ixcheldelsun/workflow-orchestration.git
+  reference: null
   access_token: null
   _block_document_id: 649840e0-b124-4e9a-ae7d-e176d9c67bf9
   _block_document_name: ixcheldelsun-repo
